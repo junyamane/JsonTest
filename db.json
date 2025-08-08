@@ -8,7 +8,7 @@
         {
             "name": "image_name2",
             "no": 1,
-            "image_url": "https://static.dev.tabdri.jp/front-resource/kiminochikara/daily/fruits/img/kiminochikara_daily_img_07_03.svg"
+            "image_url": "https://tabletdrill-local-student-data.s3.ap-northeast-1.amazonaws.com/support_notification_images/ccc1320a-f436-4399-bf91-3294f5546e93/text_image_1.png?X-Amz-Content-Sha256=UNSIGNED-PAYLOAD&X-Amz-Algorithm=AWS4-HMAC-SHA256&X-Amz-Credential=AKIARPHBXT4YUG5VODDR%2F20250808%2Fap-northeast-1%2Fs3%2Faws4_request&X-Amz-Date=20250808T042653Z&X-Amz-SignedHeaders=host&X-Amz-Expires=86400&X-Amz-Signature=d07a0d6e74bd0b0d4d052df01c6248cd47198bdc84d827981aa43171bd0b1afb"
         },
         {
             "name": "image_name3",
